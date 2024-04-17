@@ -5,5 +5,6 @@ print("nouveau changement depuis remote")
 
 
 print("fonctionnalité 1")
+print("fonctionnalité 2")
 
 
